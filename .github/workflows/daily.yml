@@ -20,20 +20,22 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      ALADIN_TTB_KEY: ${{ secrets.ALADIN_TTB_KEY }}
     steps:
       - uses: actions/checkout@v4
 
+      # 키(Secret)가 아직 없으면 수집은 건너뛰고 저장된 데이터로 배포만 한다
       - name: Fetch weekly charts (분과)
-        env:
-          ALADIN_TTB_KEY: ${{ secrets.ALADIN_TTB_KEY }}
+        if: env.ALADIN_TTB_KEY != ''
         run: python3 scripts/fetch_rankings.py
 
       - name: Fetch topic charts (성경 권별·조직신학·교회사)
-        env:
-          ALADIN_TTB_KEY: ${{ secrets.ALADIN_TTB_KEY }}
+        if: env.ALADIN_TTB_KEY != ''
         run: python3 scripts/fetch_topics.py --all
 
       - name: Commit snapshots
+        if: env.ALADIN_TTB_KEY != ''
         run: |
           git config user.name "ranking-bot"
           git config user.email "bot@users.noreply.github.com"
