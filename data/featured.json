@@ -1,0 +1,14 @@
+[
+  {
+    "id": "feat-new-1",
+    "slot": "new",
+    "own": true,
+    "title": "개혁교의학 워크북 (예시)",
+    "author": "황병준 · Chapter B",
+    "blurb": "교리니 문답의 심화 과정. 10주 동안 교의학의 뼈대를 세우는 워크북.",
+    "cover": "mock-covers/196374ec27.png",
+    "accent": "#6B1F2A",
+    "link": "https://www.aladin.co.kr",
+    "sections": []
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "recommenders": [
+    {
+      "id": "hbj",
+      "name": "황병준",
+      "school": "Chapter B",
+      "field": "교의학 · 목회",
+      "status": "현직",
+      "disclosure": "실명",
+      "source": null
+    }
+  ],
+  "picks": [
+    {
+      "recommender": "hbj",
+      "isbn13": "9788932815671",
+      "title": "하나님을 아는 지식",
+      "author": "J. I. 패커",
+      "field": "조직신학",
+      "level": "입문",
+      "reason": "교리가 기도가 되는 책. 새신자에겐 아직 고기지만 2년 차부터는 인생 책.",
+      "top": true
+    },
+    {
+      "recommender": "hbj",
+      "isbn13": "9791197467622",
+      "title": "기독교 강요",
+      "author": "장 칼뱅",
+      "field": "조직신학",
+      "level": "심화",
+      "reason": "완주보다 동행. 평생 옆에 두고 조금씩 읽는 책.",
+      "top": false
+    },
+    {
+      "recommender": "hbj",
+      "isbn13": "9788936513269",
+      "title": "순전한 기독교",
+      "author": "C. S. 루이스",
+      "field": "기독교의 이해",
+      "level": "입문",
+      "reason": "믿지 않는 친구에게 건네는 첫 책으로 이만한 게 없다.",
+      "top": false
+    },
+    {
+      "recommender": "hbj",
+      "isbn13": "9788953122147",
+      "title": "팀 켈러의 기도",
+      "author": "팀 켈러",
+      "field": "신앙생활",
+      "level": "입문",
+      "reason": "기도가 어려운 사람에게 — 위로와 신학이 같이 온다.",
+      "top": false
+    },
+    {
+      "recommender": "hbj",
+      "isbn13": null,
+      "title": "로마서 강해",
+      "author": "마틴 로이드 존스",
+      "field": "성경 · 주석",
+      "level": "심화",
+      "reason": "설교가 무엇인지 보여주는 산맥. 서두르지 말고 오래 걷는 책.",
+      "top": false
+    }
+  ]
+}

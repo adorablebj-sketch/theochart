@@ -1,0 +1,1307 @@
+{
+ "groups": [
+  {
+   "key": "ot",
+   "label": "구약",
+   "topics": [
+    {
+     "key": "genesis",
+     "label": "창세기",
+     "queries": [
+      "창세기"
+     ],
+     "aliases": [
+      "창세기"
+     ],
+     "enabled": true,
+     "part": "오경"
+    },
+    {
+     "key": "exodus",
+     "label": "출애굽기",
+     "queries": [
+      "출애굽기"
+     ],
+     "aliases": [
+      "출애굽기"
+     ],
+     "enabled": true,
+     "part": "오경"
+    },
+    {
+     "key": "leviticus",
+     "label": "레위기",
+     "queries": [
+      "레위기"
+     ],
+     "aliases": [
+      "레위기"
+     ],
+     "enabled": true,
+     "part": "오경"
+    },
+    {
+     "key": "numbers",
+     "label": "민수기",
+     "queries": [
+      "민수기"
+     ],
+     "aliases": [
+      "민수기"
+     ],
+     "enabled": true,
+     "part": "오경"
+    },
+    {
+     "key": "deuteronomy",
+     "label": "신명기",
+     "queries": [
+      "신명기"
+     ],
+     "aliases": [
+      "신명기"
+     ],
+     "enabled": true,
+     "part": "오경"
+    },
+    {
+     "key": "joshua",
+     "label": "여호수아",
+     "queries": [
+      "여호수아"
+     ],
+     "aliases": [
+      "여호수아"
+     ],
+     "enabled": true,
+     "part": "역사서"
+    },
+    {
+     "key": "judges",
+     "label": "사사기",
+     "queries": [
+      "사사기"
+     ],
+     "aliases": [
+      "사사기"
+     ],
+     "enabled": true,
+     "part": "역사서"
+    },
+    {
+     "key": "ruth",
+     "label": "룻기",
+     "queries": [
+      "룻기"
+     ],
+     "aliases": [
+      "룻기"
+     ],
+     "enabled": true,
+     "part": "역사서"
+    },
+    {
+     "key": "1samuel",
+     "label": "사무엘상",
+     "queries": [
+      "사무엘상"
+     ],
+     "aliases": [
+      "사무엘상"
+     ],
+     "enabled": true,
+     "part": "역사서"
+    },
+    {
+     "key": "2samuel",
+     "label": "사무엘하",
+     "queries": [
+      "사무엘하"
+     ],
+     "aliases": [
+      "사무엘하"
+     ],
+     "enabled": true,
+     "part": "역사서"
+    },
+    {
+     "key": "1kings",
+     "label": "열왕기상",
+     "queries": [
+      "열왕기상"
+     ],
+     "aliases": [
+      "열왕기상",
+      "열왕기"
+     ],
+     "enabled": true,
+     "part": "역사서"
+    },
+    {
+     "key": "2kings",
+     "label": "열왕기하",
+     "queries": [
+      "열왕기하"
+     ],
+     "aliases": [
+      "열왕기하"
+     ],
+     "enabled": true,
+     "part": "역사서"
+    },
+    {
+     "key": "1chronicles",
+     "label": "역대상",
+     "queries": [
+      "역대상"
+     ],
+     "aliases": [
+      "역대상"
+     ],
+     "enabled": true,
+     "part": "역사서"
+    },
+    {
+     "key": "2chronicles",
+     "label": "역대하",
+     "queries": [
+      "역대하"
+     ],
+     "aliases": [
+      "역대하"
+     ],
+     "enabled": true,
+     "part": "역사서"
+    },
+    {
+     "key": "ezra",
+     "label": "에스라",
+     "queries": [
+      "에스라"
+     ],
+     "aliases": [
+      "에스라"
+     ],
+     "enabled": true,
+     "part": "역사서"
+    },
+    {
+     "key": "nehemiah",
+     "label": "느헤미야",
+     "queries": [
+      "느헤미야"
+     ],
+     "aliases": [
+      "느헤미야"
+     ],
+     "enabled": true,
+     "part": "역사서"
+    },
+    {
+     "key": "esther",
+     "label": "에스더",
+     "queries": [
+      "에스더서"
+     ],
+     "aliases": [
+      "에스더서",
+      "에스더"
+     ],
+     "enabled": true,
+     "part": "역사서"
+    },
+    {
+     "key": "job",
+     "label": "욥기",
+     "queries": [
+      "욥기"
+     ],
+     "aliases": [
+      "욥기"
+     ],
+     "enabled": true,
+     "part": "시가서"
+    },
+    {
+     "key": "psalms",
+     "label": "시편",
+     "queries": [
+      "시편"
+     ],
+     "aliases": [
+      "시편"
+     ],
+     "enabled": true,
+     "part": "시가서"
+    },
+    {
+     "key": "proverbs",
+     "label": "잠언",
+     "queries": [
+      "잠언"
+     ],
+     "aliases": [
+      "잠언"
+     ],
+     "enabled": true,
+     "part": "시가서"
+    },
+    {
+     "key": "ecclesiastes",
+     "label": "전도서",
+     "queries": [
+      "전도서"
+     ],
+     "aliases": [
+      "전도서"
+     ],
+     "enabled": true,
+     "part": "시가서"
+    },
+    {
+     "key": "song",
+     "label": "아가",
+     "queries": [
+      "아가서"
+     ],
+     "aliases": [
+      "아가서",
+      "아가"
+     ],
+     "enabled": true,
+     "part": "시가서"
+    },
+    {
+     "key": "isaiah",
+     "label": "이사야",
+     "queries": [
+      "이사야"
+     ],
+     "aliases": [
+      "이사야"
+     ],
+     "enabled": true,
+     "part": "대선지서"
+    },
+    {
+     "key": "jeremiah",
+     "label": "예레미야",
+     "queries": [
+      "예레미야"
+     ],
+     "aliases": [
+      "예레미야"
+     ],
+     "enabled": true,
+     "part": "대선지서"
+    },
+    {
+     "key": "lamentations",
+     "label": "예레미야애가",
+     "queries": [
+      "예레미야애가"
+     ],
+     "aliases": [
+      "예레미야애가",
+      "애가"
+     ],
+     "enabled": true,
+     "part": "대선지서"
+    },
+    {
+     "key": "ezekiel",
+     "label": "에스겔",
+     "queries": [
+      "에스겔"
+     ],
+     "aliases": [
+      "에스겔"
+     ],
+     "enabled": true,
+     "part": "대선지서"
+    },
+    {
+     "key": "daniel",
+     "label": "다니엘",
+     "queries": [
+      "다니엘서"
+     ],
+     "aliases": [
+      "다니엘서",
+      "다니엘"
+     ],
+     "enabled": true,
+     "part": "대선지서"
+    },
+    {
+     "key": "hosea",
+     "label": "호세아",
+     "queries": [
+      "호세아"
+     ],
+     "aliases": [
+      "호세아"
+     ],
+     "enabled": true,
+     "part": "소선지서"
+    },
+    {
+     "key": "joel",
+     "label": "요엘",
+     "queries": [
+      "요엘서"
+     ],
+     "aliases": [
+      "요엘서",
+      "요엘"
+     ],
+     "enabled": true,
+     "part": "소선지서"
+    },
+    {
+     "key": "amos",
+     "label": "아모스",
+     "queries": [
+      "아모스서"
+     ],
+     "aliases": [
+      "아모스서",
+      "아모스"
+     ],
+     "enabled": true,
+     "part": "소선지서"
+    },
+    {
+     "key": "obadiah",
+     "label": "오바댜",
+     "queries": [
+      "오바댜"
+     ],
+     "aliases": [
+      "오바댜"
+     ],
+     "enabled": true,
+     "part": "소선지서"
+    },
+    {
+     "key": "jonah",
+     "label": "요나",
+     "queries": [
+      "요나서"
+     ],
+     "aliases": [
+      "요나서",
+      "요나"
+     ],
+     "enabled": true,
+     "part": "소선지서"
+    },
+    {
+     "key": "micah",
+     "label": "미가",
+     "queries": [
+      "미가서"
+     ],
+     "aliases": [
+      "미가서",
+      "미가"
+     ],
+     "enabled": true,
+     "part": "소선지서"
+    },
+    {
+     "key": "nahum",
+     "label": "나훔",
+     "queries": [
+      "나훔"
+     ],
+     "aliases": [
+      "나훔"
+     ],
+     "enabled": true,
+     "part": "소선지서"
+    },
+    {
+     "key": "habakkuk",
+     "label": "하박국",
+     "queries": [
+      "하박국"
+     ],
+     "aliases": [
+      "하박국"
+     ],
+     "enabled": true,
+     "part": "소선지서"
+    },
+    {
+     "key": "zephaniah",
+     "label": "스바냐",
+     "queries": [
+      "스바냐"
+     ],
+     "aliases": [
+      "스바냐"
+     ],
+     "enabled": true,
+     "part": "소선지서"
+    },
+    {
+     "key": "haggai",
+     "label": "학개",
+     "queries": [
+      "학개"
+     ],
+     "aliases": [
+      "학개"
+     ],
+     "enabled": true,
+     "part": "소선지서"
+    },
+    {
+     "key": "zechariah",
+     "label": "스가랴",
+     "queries": [
+      "스가랴"
+     ],
+     "aliases": [
+      "스가랴"
+     ],
+     "enabled": true,
+     "part": "소선지서"
+    },
+    {
+     "key": "malachi",
+     "label": "말라기",
+     "queries": [
+      "말라기"
+     ],
+     "aliases": [
+      "말라기"
+     ],
+     "enabled": true,
+     "part": "소선지서"
+    }
+   ]
+  },
+  {
+   "key": "nt",
+   "label": "신약",
+   "topics": [
+    {
+     "key": "matthew",
+     "label": "마태복음",
+     "queries": [
+      "마태복음"
+     ],
+     "aliases": [
+      "마태복음"
+     ],
+     "enabled": true,
+     "part": "복음서·행전"
+    },
+    {
+     "key": "mark",
+     "label": "마가복음",
+     "queries": [
+      "마가복음"
+     ],
+     "aliases": [
+      "마가복음"
+     ],
+     "enabled": true,
+     "part": "복음서·행전"
+    },
+    {
+     "key": "luke",
+     "label": "누가복음",
+     "queries": [
+      "누가복음"
+     ],
+     "aliases": [
+      "누가복음"
+     ],
+     "enabled": true,
+     "part": "복음서·행전"
+    },
+    {
+     "key": "john",
+     "label": "요한복음",
+     "queries": [
+      "요한복음"
+     ],
+     "aliases": [
+      "요한복음"
+     ],
+     "enabled": true,
+     "part": "복음서·행전"
+    },
+    {
+     "key": "acts",
+     "label": "사도행전",
+     "queries": [
+      "사도행전"
+     ],
+     "aliases": [
+      "사도행전"
+     ],
+     "enabled": true,
+     "part": "복음서·행전"
+    },
+    {
+     "key": "romans",
+     "label": "로마서",
+     "queries": [
+      "로마서"
+     ],
+     "aliases": [
+      "로마서"
+     ],
+     "enabled": true,
+     "part": "바울서신"
+    },
+    {
+     "key": "1corinthians",
+     "label": "고린도전서",
+     "queries": [
+      "고린도전서"
+     ],
+     "aliases": [
+      "고린도전서",
+      "고린도서"
+     ],
+     "enabled": true,
+     "part": "바울서신"
+    },
+    {
+     "key": "2corinthians",
+     "label": "고린도후서",
+     "queries": [
+      "고린도후서"
+     ],
+     "aliases": [
+      "고린도후서"
+     ],
+     "enabled": true,
+     "part": "바울서신"
+    },
+    {
+     "key": "galatians",
+     "label": "갈라디아서",
+     "queries": [
+      "갈라디아서"
+     ],
+     "aliases": [
+      "갈라디아서"
+     ],
+     "enabled": true,
+     "part": "바울서신"
+    },
+    {
+     "key": "ephesians",
+     "label": "에베소서",
+     "queries": [
+      "에베소서"
+     ],
+     "aliases": [
+      "에베소서"
+     ],
+     "enabled": true,
+     "part": "바울서신"
+    },
+    {
+     "key": "philippians",
+     "label": "빌립보서",
+     "queries": [
+      "빌립보서"
+     ],
+     "aliases": [
+      "빌립보서"
+     ],
+     "enabled": true,
+     "part": "바울서신"
+    },
+    {
+     "key": "colossians",
+     "label": "골로새서",
+     "queries": [
+      "골로새서"
+     ],
+     "aliases": [
+      "골로새서"
+     ],
+     "enabled": true,
+     "part": "바울서신"
+    },
+    {
+     "key": "1thessalonians",
+     "label": "데살로니가전서",
+     "queries": [
+      "데살로니가전서"
+     ],
+     "aliases": [
+      "데살로니가전서",
+      "데살로니가서"
+     ],
+     "enabled": true,
+     "part": "바울서신"
+    },
+    {
+     "key": "2thessalonians",
+     "label": "데살로니가후서",
+     "queries": [
+      "데살로니가후서"
+     ],
+     "aliases": [
+      "데살로니가후서"
+     ],
+     "enabled": true,
+     "part": "바울서신"
+    },
+    {
+     "key": "1timothy",
+     "label": "디모데전서",
+     "queries": [
+      "디모데전서"
+     ],
+     "aliases": [
+      "디모데전서"
+     ],
+     "enabled": true,
+     "part": "바울서신"
+    },
+    {
+     "key": "2timothy",
+     "label": "디모데후서",
+     "queries": [
+      "디모데후서"
+     ],
+     "aliases": [
+      "디모데후서"
+     ],
+     "enabled": true,
+     "part": "바울서신"
+    },
+    {
+     "key": "titus",
+     "label": "디도서",
+     "queries": [
+      "디도서"
+     ],
+     "aliases": [
+      "디도서"
+     ],
+     "enabled": true,
+     "part": "바울서신"
+    },
+    {
+     "key": "philemon",
+     "label": "빌레몬서",
+     "queries": [
+      "빌레몬서"
+     ],
+     "aliases": [
+      "빌레몬서"
+     ],
+     "enabled": true,
+     "part": "바울서신"
+    },
+    {
+     "key": "hebrews",
+     "label": "히브리서",
+     "queries": [
+      "히브리서"
+     ],
+     "aliases": [
+      "히브리서"
+     ],
+     "enabled": true,
+     "part": "일반서신·계시록"
+    },
+    {
+     "key": "james",
+     "label": "야고보서",
+     "queries": [
+      "야고보서"
+     ],
+     "aliases": [
+      "야고보서"
+     ],
+     "enabled": true,
+     "part": "일반서신·계시록"
+    },
+    {
+     "key": "1peter",
+     "label": "베드로전서",
+     "queries": [
+      "베드로전서"
+     ],
+     "aliases": [
+      "베드로전서",
+      "베드로서"
+     ],
+     "enabled": true,
+     "part": "일반서신·계시록"
+    },
+    {
+     "key": "2peter",
+     "label": "베드로후서",
+     "queries": [
+      "베드로후서"
+     ],
+     "aliases": [
+      "베드로후서"
+     ],
+     "enabled": true,
+     "part": "일반서신·계시록"
+    },
+    {
+     "key": "1john",
+     "label": "요한일서",
+     "queries": [
+      "요한일서"
+     ],
+     "aliases": [
+      "요한일서",
+      "요한서신"
+     ],
+     "enabled": true,
+     "part": "일반서신·계시록"
+    },
+    {
+     "key": "2john",
+     "label": "요한이서",
+     "queries": [
+      "요한이서"
+     ],
+     "aliases": [
+      "요한이서"
+     ],
+     "enabled": true,
+     "part": "일반서신·계시록"
+    },
+    {
+     "key": "3john",
+     "label": "요한삼서",
+     "queries": [
+      "요한삼서"
+     ],
+     "aliases": [
+      "요한삼서"
+     ],
+     "enabled": true,
+     "part": "일반서신·계시록"
+    },
+    {
+     "key": "jude",
+     "label": "유다서",
+     "queries": [
+      "유다서"
+     ],
+     "aliases": [
+      "유다서"
+     ],
+     "enabled": true,
+     "part": "일반서신·계시록"
+    },
+    {
+     "key": "revelation",
+     "label": "요한계시록",
+     "queries": [
+      "요한계시록"
+     ],
+     "aliases": [
+      "요한계시록",
+      "계시록"
+     ],
+     "enabled": true,
+     "part": "일반서신·계시록"
+    }
+   ]
+  },
+  {
+   "key": "doctrine",
+   "label": "조직신학",
+   "topics": [
+    {
+     "key": "systematic",
+     "label": "조직신학·교의학",
+     "queries": [
+      "조직신학",
+      "교의학"
+     ],
+     "aliases": [
+      "조직신학",
+      "교의학"
+     ],
+     "part": "개론",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "reformed",
+     "label": "개혁신학",
+     "queries": [
+      "개혁신학",
+      "개혁주의"
+     ],
+     "aliases": [
+      "개혁신학",
+      "개혁주의"
+     ],
+     "part": "개론",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "catechism",
+     "label": "신앙고백·교리문답",
+     "queries": [
+      "소요리문답",
+      "하이델베르크",
+      "웨스트민스터",
+      "신앙고백"
+     ],
+     "aliases": [
+      "소요리문답",
+      "대요리문답",
+      "하이델베르크",
+      "웨스트민스터",
+      "신앙고백",
+      "교리문답",
+      "벨직"
+     ],
+     "part": "개론",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "scripture",
+     "label": "성경론·계시",
+     "queries": [
+      "성경론",
+      "계시론"
+     ],
+     "aliases": [
+      "성경론",
+      "계시론",
+      "성경의 권위",
+      "성경 무오"
+     ],
+     "part": "서론",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "god",
+     "label": "신론",
+     "queries": [
+      "신론",
+      "하나님의 속성"
+     ],
+     "aliases": [
+      "신론",
+      "하나님의 속성",
+      "하나님의 주권"
+     ],
+     "part": "신론",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "trinity",
+     "label": "삼위일체",
+     "queries": [
+      "삼위일체"
+     ],
+     "aliases": [
+      "삼위일체"
+     ],
+     "part": "신론",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "covenant",
+     "label": "언약",
+     "queries": [
+      "언약신학",
+      "언약"
+     ],
+     "aliases": [
+      "언약신학",
+      "언약"
+     ],
+     "part": "신론",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "predestination",
+     "label": "예정·섭리",
+     "queries": [
+      "예정론",
+      "섭리"
+     ],
+     "aliases": [
+      "예정론",
+      "섭리"
+     ],
+     "part": "신론",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "anthropology",
+     "label": "인간론·죄",
+     "queries": [
+      "인간론",
+      "원죄"
+     ],
+     "aliases": [
+      "인간론",
+      "죄론",
+      "원죄",
+      "전적 타락"
+     ],
+     "part": "인간론",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "christology",
+     "label": "기독론",
+     "queries": [
+      "기독론",
+      "그리스도론"
+     ],
+     "aliases": [
+      "기독론",
+      "그리스도론",
+      "성육신"
+     ],
+     "part": "기독론",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "atonement",
+     "label": "속죄·십자가",
+     "queries": [
+      "속죄",
+      "대속"
+     ],
+     "aliases": [
+      "속죄",
+      "십자가 신학",
+      "대속"
+     ],
+     "part": "기독론",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "pneumatology",
+     "label": "성령론",
+     "queries": [
+      "성령론"
+     ],
+     "aliases": [
+      "성령론"
+     ],
+     "part": "성령론",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "soteriology",
+     "label": "구원론",
+     "queries": [
+      "구원론",
+      "칭의",
+      "성화"
+     ],
+     "aliases": [
+      "구원론",
+      "칭의",
+      "성화",
+      "중생"
+     ],
+     "part": "구원론",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "ecclesiology",
+     "label": "교회론",
+     "queries": [
+      "교회론"
+     ],
+     "aliases": [
+      "교회론"
+     ],
+     "part": "교회론",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "sacraments",
+     "label": "성례·세례·성찬",
+     "queries": [
+      "성례",
+      "세례",
+      "성찬"
+     ],
+     "aliases": [
+      "성례",
+      "세례",
+      "성찬",
+      "유아세례"
+     ],
+     "part": "교회론",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "eschatology",
+     "label": "종말론",
+     "queries": [
+      "종말론",
+      "재림"
+     ],
+     "aliases": [
+      "종말론",
+      "천년왕국",
+      "재림"
+     ],
+     "part": "종말론",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "apologetics",
+     "label": "변증학",
+     "queries": [
+      "변증학",
+      "변증"
+     ],
+     "aliases": [
+      "변증학",
+      "변증"
+     ],
+     "part": "변증",
+     "enabled": true,
+     "loose": true
+    }
+   ]
+  },
+  {
+   "key": "history",
+   "label": "교회사",
+   "topics": [
+    {
+     "key": "church-history",
+     "label": "교회사 개론",
+     "queries": [
+      "교회사",
+      "기독교 역사"
+     ],
+     "aliases": [
+      "교회사",
+      "기독교 역사",
+      "기독교의 역사"
+     ],
+     "part": "개론",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "early-church",
+     "label": "초대교회·교부",
+     "queries": [
+      "초대교회",
+      "교부"
+     ],
+     "aliases": [
+      "초대교회",
+      "교부",
+      "속사도"
+     ],
+     "part": "고대",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "augustine",
+     "label": "어거스틴",
+     "queries": [
+      "어거스틴",
+      "아우구스티누스"
+     ],
+     "aliases": [
+      "어거스틴",
+      "아우구스티누스"
+     ],
+     "part": "고대",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "medieval",
+     "label": "중세교회",
+     "queries": [
+      "중세교회",
+      "아퀴나스"
+     ],
+     "aliases": [
+      "중세 교회",
+      "중세교회",
+      "스콜라",
+      "토마스 아퀴나스"
+     ],
+     "part": "중세",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "reformation",
+     "label": "종교개혁",
+     "queries": [
+      "종교개혁"
+     ],
+     "aliases": [
+      "종교개혁"
+     ],
+     "part": "종교개혁",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "luther",
+     "label": "루터",
+     "queries": [
+      "루터"
+     ],
+     "aliases": [
+      "마르틴 루터",
+      "마틴 루터",
+      "루터"
+     ],
+     "part": "종교개혁",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "calvin",
+     "label": "칼뱅",
+     "queries": [
+      "칼뱅",
+      "칼빈"
+     ],
+     "aliases": [
+      "칼뱅",
+      "칼빈",
+      "깔뱅"
+     ],
+     "part": "종교개혁",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "puritans",
+     "label": "청교도",
+     "queries": [
+      "청교도"
+     ],
+     "aliases": [
+      "청교도"
+     ],
+     "part": "종교개혁 이후",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "awakening",
+     "label": "부흥·웨슬리·에드워즈",
+     "queries": [
+      "웨슬리",
+      "에드워즈"
+     ],
+     "aliases": [
+      "웨슬리",
+      "조나단 에드워즈",
+      "대각성",
+      "부흥운동"
+     ],
+     "part": "종교개혁 이후",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "modern-theology",
+     "label": "근현대 신학",
+     "queries": [
+      "현대신학",
+      "바르트"
+     ],
+     "aliases": [
+      "현대신학",
+      "바르트",
+      "칼 바르트",
+      "슐라이어마허"
+     ],
+     "part": "근현대",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "bonhoeffer",
+     "label": "본회퍼",
+     "queries": [
+      "본회퍼"
+     ],
+     "aliases": [
+      "본회퍼"
+     ],
+     "part": "근현대",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "korean-church",
+     "label": "한국교회사",
+     "queries": [
+      "한국교회사",
+      "한국 기독교 역사"
+     ],
+     "aliases": [
+      "한국교회사",
+      "한국 교회사",
+      "한국기독교사",
+      "한국 기독교 역사",
+      "한국교회 역사"
+     ],
+     "part": "한국",
+     "enabled": true,
+     "loose": true
+    },
+    {
+     "key": "missions-history",
+     "label": "선교 역사",
+     "queries": [
+      "선교 역사",
+      "선교사"
+     ],
+     "aliases": [
+      "선교 역사",
+      "선교사",
+      "허드슨 테일러",
+      "윌리엄 캐리"
+     ],
+     "part": "한국·선교",
+     "enabled": true,
+     "loose": true
+    }
+   ]
+  }
+ ]
+}

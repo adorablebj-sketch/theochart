@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>신학책 랭킹 (가칭)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-product="charts">
+<header class="site-head shell">
+  <p class="overline">복음주의 · 개혁주의 관점으로 고른 주간 기독교 서적 차트</p>
+  <div class="title-row">
+    <h1>신학책 랭킹</h1>
+    <span id="weekLabel" class="week"></span>
+    <span id="sampleBadge" class="sample hidden">샘플 데이터</span>
+  </div>
+  <nav class="pages"><a class="on" href="./">차트</a><a href="picks.html">신학자 추천</a></nav>
+</header>
+<nav class="toc-nav shell" id="tabs" aria-label="차트 선택"></nav>
+<main class="shell">
+  <section id="featured"></section>
+  <section id="podium"></section>
+  <ol class="list" id="list"></ol>
+  <footer class="foot"><p id="footNote"></p></footer>
+</main>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "sections": [
+    { "key": "total", "label": "종합", "cid": 51564 },
+    { "key": "theology", "label": "신학·목회", "cid": 51578 },
+    { "key": "commentary", "label": "주석·설교", "cid": 51593 },
+    { "key": "faith", "label": "신앙생활", "cid": 51579 },
+    { "key": "bible", "label": "성경의 이해", "cid": 51572 },
+    { "key": "intro", "label": "기독교의 이해", "cid": 51571 },
+    { "key": "history", "label": "역사", "cid": 51575 }
+  ]
+}

@@ -1,0 +1,51 @@
+name: daily-rankings
+
+on:
+  schedule:
+    - cron: "30 21 * * *" # 매일 06:30 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch weekly charts (분과)
+        env:
+          ALADIN_TTB_KEY: ${{ secrets.ALADIN_TTB_KEY }}
+        run: python3 scripts/fetch_rankings.py
+
+      - name: Fetch topic charts (성경 권별·조직신학·교회사)
+        env:
+          ALADIN_TTB_KEY: ${{ secrets.ALADIN_TTB_KEY }}
+        run: python3 scripts/fetch_topics.py --all
+
+      - name: Commit snapshots
+        run: |
+          git config user.name "ranking-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data site
+          git commit -m "data: $(date -u +%F)" || echo "no changes"
+          git push
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

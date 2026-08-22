@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>순위 산출 방법 — 신학책 랭킹</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-head shell">
+  <p class="overline"><a href="./" style="color:inherit;text-decoration:none">← 차트로 돌아가기</a></p>
+  <div class="title-row"><h1>순위는 이렇게 매깁니다</h1></div>
+</header>
+<main class="shell prose">
+  <p>이 차트는 서점의 판매 순위를 그대로 옮기지 않습니다. 판매 데이터 위에 <strong>꾸준함</strong>과 <strong>읽어본 사람의 평가</strong>를 얹어 다시 매깁니다. 반짝 팔리는 책보다 오래 읽히는 책이 위로 갑니다.</p>
+
+  <h2>교리니 점수 (100점 만점)</h2>
+  <table>
+    <tr><th>요소</th><th>비중</th><th>뜻</th></tr>
+    <tr><td>이번 주 판매 순위</td><td>50%</td><td>1위 100점 … 50위 2점</td></tr>
+    <tr><td>최근 4주 평균 순위</td><td>30%</td><td>꾸준함. 첫 진입 뒤 빠진 주는 0점</td></tr>
+    <tr><td>연속 차트인 주수</td><td>20%</td><td>롱런 보너스. 12주에 만점</td></tr>
+  </table>
+
+  <h2>별점 보정</h2>
+  <p>운영자가 직접 읽고 매긴 별점이 있는 책에만 곱해집니다. 평가가 없는 책은 보정 없이 데이터 점수 그대로입니다.</p>
+  <table>
+    <tr><th>별점</th><th>보정</th></tr>
+    <tr><td>5.0</td><td>× 1.30</td></tr>
+    <tr><td>4.5</td><td>× 1.22</td></tr>
+    <tr><td>4.0</td><td>× 1.12</td></tr>
+    <tr><td>3.5</td><td>× 1.00</td></tr>
+    <tr><td>3.0 이하</td><td>× 0.90</td></tr>
+    <tr><td>분별 주의 표시</td><td>× 0.75</td></tr>
+  </table>
+  <p>우리가 만든 책은 별점 보정을 적용하지 않고 데이터 점수만으로 순위에 오릅니다.</p>
+
+  <h2>관점과 범위</h2>
+  <p>이 차트는 복음주의·개혁주의 관점에서 만듭니다. 기독교 신앙 바깥에서 성경을 읽는 저자나 출판사의 책은 순위에서 제외하며, 그 목록은 짧게 유지합니다. 신학적 노선이 다른 책은 제외하지 않고 노선 표시와 분별 노트로 알립니다.</p>
+
+  <h2>데이터</h2>
+  <p>판매 데이터는 알라딘 오픈API에서 매일 아침 받아오며, 2025년 10월부터의 주간 기록을 누적해 추세와 연속 주수를 계산합니다. 각 분과는 알라딘 국내도서 &gt; 기독교(개신교) 하위 분류를 기준으로 합니다.</p>
+</main>
+<footer class="shell foot"><p>판매 데이터 출처: 알라딘 · 순위 산출: 교리니 공식</p></footer>
+</body>
+</html>
