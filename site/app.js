@@ -382,7 +382,7 @@
     if (state.data.sample) document.getElementById("sampleBadge").classList.remove("hidden");
     var t = state.data.generatedAt ? state.data.generatedAt.replace("T", " ").slice(0, 16) : "";
     document.getElementById("footNote").innerHTML =
-      '순위 산출: 교리니 공식 (<a href="method.html">방법론</a>) · 판매 데이터 출처: 알라딘 · ' + esc(t) + " 갱신" +
+      '순위 산출: 신학차트 공식 (<a href="method.html">방법론</a>) · 판매 데이터 출처: 알라딘 · ' + esc(t) + " 갱신" +
       (state.data.sample ? " · 지금 보이는 순위는 개발용 샘플입니다." : "");
   }
 
