@@ -1,5 +1,7 @@
 # 신학책 랭킹 (가칭)
 
+공개 주소: https://adorablebj-sketch.github.io/theobook-chart/ (저장소: adorablebj-sketch/theobook-chart)
+
 매일 아침 자동 갱신되는 기독교 서적 주간 차트. 알라딘 오픈API 집계(객관 데이터) 위에
 큐레이션 층(별점 · 난이도 입문/중급/심화 · 노선 · 한줄평)을 얹는 구조다.
 
