@@ -25,7 +25,7 @@
   "author": "아브라함 카이퍼, 이상웅 옮김",
   "category": "신앙생활일반",
   "section": "total",
-  "rank": 5,
+  "rank": 6,
   "decision": "뺌",
   "reason": "분류 신앙생활일반"
  },
@@ -35,7 +35,7 @@
   "author": "송민원",
   "category": "성경의 이해",
   "section": "total",
-  "rank": 7,
+  "rank": 8,
   "decision": "남김",
   "reason": "분류 성경의 이해"
  },
@@ -45,19 +45,19 @@
   "author": "권수경",
   "category": "설교/성경연구",
   "section": "total",
-  "rank": 13,
+  "rank": 12,
   "decision": "남김",
   "reason": "분류 설교/성경연구"
  },
  {
-  "id": "9791170833505",
-  "title": "성서와 권력",
-  "author": "월터 브루그만, 박규태 옮김",
-  "category": "기독교 일반",
+  "id": "9788938815880",
+  "title": "마더와이즈 지혜 - 개정판, 삶의 다양한 관계 안에서 어머니들을 성숙하게 세워주는 말씀의 원리",
+  "author": "드니스 글렌, 김진선 옮김, 마더와이즈 코리아 연구팀 감수",
+  "category": "신앙생활일반",
   "section": "total",
-  "rank": 18,
+  "rank": 19,
   "decision": "뺌",
-  "reason": "분류 기독교 일반"
+  "reason": "분류 신앙생활일반"
  },
  {
   "id": "9791175400917",
@@ -70,24 +70,24 @@
   "reason": "분류 기독교 일반"
  },
  {
+  "id": "9791170833505",
+  "title": "성서와 권력",
+  "author": "월터 브루그만, 박규태 옮김",
+  "category": "기독교 일반",
+  "section": "total",
+  "rank": 23,
+  "decision": "뺌",
+  "reason": "분류 기독교 일반"
+ },
+ {
   "id": "9788904169740",
   "title": "그리스도와의 연합",
   "author": "싱클레어 B. 퍼거슨, 신호섭 옮김",
   "category": "신학일반",
   "section": "total",
-  "rank": 24,
+  "rank": 27,
   "decision": "남김",
   "reason": "분류 신학일반"
- },
- {
-  "id": "9788938815880",
-  "title": "마더와이즈 지혜 - 개정판, 삶의 다양한 관계 안에서 어머니들을 성숙하게 세워주는 말씀의 원리",
-  "author": "드니스 글렌, 김진선 옮김, 마더와이즈 코리아 연구팀 감수",
-  "category": "신앙생활일반",
-  "section": "total",
-  "rank": 25,
-  "decision": "뺌",
-  "reason": "분류 신앙생활일반"
  },
  {
   "id": "9788904141555",
@@ -95,7 +95,17 @@
   "author": "게리 채프먼, 장동숙, 황을호 옮김",
   "category": "신앙생활일반",
   "section": "total",
-  "rank": 26,
+  "rank": 28,
+  "decision": "뺌",
+  "reason": "분류 신앙생활일반"
+ },
+ {
+  "id": "9788934127949",
+  "title": "이것이 복음이다 - 그리스도의 속죄와 구원의 비밀",
+  "author": "박요한",
+  "category": "신앙생활일반",
+  "section": "total",
+  "rank": 30,
   "decision": "뺌",
   "reason": "분류 신앙생활일반"
  },
@@ -105,29 +115,9 @@
   "author": "구미정",
   "category": "성경의 이해",
   "section": "total",
-  "rank": 30,
+  "rank": 31,
   "decision": "남김",
   "reason": "분류 성경의 이해"
- },
- {
-  "id": "9788934127949",
-  "title": "이것이 복음이다 - 그리스도의 속죄와 구원의 비밀",
-  "author": "박요한",
-  "category": "신앙생활일반",
-  "section": "total",
-  "rank": 31,
-  "decision": "뺌",
-  "reason": "분류 신앙생활일반"
- },
- {
-  "id": "9791189393557",
-  "title": "대답만 잘해도 청년이 산다 - 제가요? 또요? 이걸요? 왜요?",
-  "author": "박은규",
-  "category": "목회일반",
-  "section": "total",
-  "rank": 34,
-  "decision": "남김",
-  "reason": "분류 목회일반"
  },
  {
   "id": "9791198966476",
@@ -135,29 +125,39 @@
   "author": "J. M. 쿳시, 왕은철 옮김",
   "category": "아프리카소설",
   "section": "total",
-  "rank": 38,
+  "rank": 32,
   "decision": "남김",
   "reason": "분류 아프리카소설"
  },
  {
-  "id": "9788955825022",
-  "title": "신과 나눈 이야기 1 - 나는 너희가 원하는 걸 원한다, 개정판",
-  "author": "닐 도널드 월쉬, 조경숙 옮김",
-  "category": "외국에세이",
+  "id": "9791189393557",
+  "title": "대답만 잘해도 청년이 산다 - 제가요? 또요? 이걸요? 왜요?",
+  "author": "박은규",
+  "category": "목회일반",
   "section": "total",
-  "rank": 43,
+  "rank": 37,
   "decision": "남김",
-  "reason": "분류 외국에세이"
+  "reason": "분류 목회일반"
  },
  {
-  "id": "9791165047290",
-  "title": "강소 교회 로드맵 - 통계와 사례가 증명하는 작지만 강한 교회",
-  "author": "목회데이터연구소, 지용근, 김선일",
-  "category": "기독교 일반",
-  "section": "theology",
-  "rank": 27,
+  "id": "9791199325623",
+  "title": "풍성한 삶으로 초대 - 나를 떠나, 닿지 못했던 곳으로",
+  "author": "김형국",
+  "category": "신앙생활일반",
+  "section": "total",
+  "rank": 39,
   "decision": "뺌",
-  "reason": "분류 기독교 일반"
+  "reason": "분류 신앙생활일반"
+ },
+ {
+  "id": "9788973041893",
+  "title": "웨스트민스터 표준문서",
+  "author": "대한예수교장로회(합신) 총회 신학연구위원회",
+  "category": "신앙생활일반",
+  "section": "total",
+  "rank": 45,
+  "decision": "뺌",
+  "reason": "분류 신앙생활일반"
  },
  {
   "id": "9791199780460",
@@ -165,9 +165,19 @@
   "author": "윌리엄 템플, 김준철 옮김",
   "category": "신앙생활일반",
   "section": "theology",
-  "rank": 29,
+  "rank": 27,
   "decision": "뺌",
   "reason": "분류 신앙생활일반"
+ },
+ {
+  "id": "9791165047290",
+  "title": "강소 교회 로드맵 - 통계와 사례가 증명하는 작지만 강한 교회",
+  "author": "목회데이터연구소, 지용근, 김선일",
+  "category": "기독교 일반",
+  "section": "theology",
+  "rank": 29,
+  "decision": "뺌",
+  "reason": "분류 기독교 일반"
  },
  {
   "id": "9791193996935",
@@ -175,9 +185,19 @@
   "author": "김덕종",
   "category": "설교/성경연구",
   "section": "theology",
-  "rank": 37,
+  "rank": 32,
   "decision": "남김",
   "reason": "분류 설교/성경연구"
+ },
+ {
+  "id": "9788970403274",
+  "title": "웨스트민스터 소요리문답 - 개정판",
+  "author": "독립개신교회교육위원회 옮김",
+  "category": "신학일반",
+  "section": "theology",
+  "rank": 37,
+  "decision": "남김",
+  "reason": "분류 신학일반"
  },
  {
   "id": "9788963603001",
@@ -190,24 +210,14 @@
   "reason": "분류 설교/성경연구"
  },
  {
-  "id": "9788936513252",
-  "title": "고통의 문제",
-  "author": "C. S. 루이스, 이종태 옮김",
-  "category": "신학일반",
+  "id": "9788955365641",
+  "title": "세 왕 이야기 - 개정 2판",
+  "author": "진 에드워드, 허령 옮김",
+  "category": "설교/성경연구",
   "section": "theology",
-  "rank": 41,
+  "rank": 40,
   "decision": "남김",
-  "reason": "분류 신학일반"
- },
- {
-  "id": "9788953140493",
-  "title": "예수는 역사다 - 누가 예수를 신화라 하는가, 개정증보판",
-  "author": "리 스트로벨, 윤관희, 박중렬 옮김",
-  "category": "신학일반",
-  "section": "theology",
-  "rank": 43,
-  "decision": "남김",
-  "reason": "분류 신학일반"
+  "reason": "분류 설교/성경연구"
  },
  {
   "id": "9791194216377",
@@ -215,29 +225,9 @@
   "author": "토니 캠폴로, 바트 캠폴로, 노종문 옮김",
   "category": "신앙생활일반",
   "section": "theology",
-  "rank": 44,
+  "rank": 43,
   "decision": "뺌",
   "reason": "분류 신앙생활일반"
- },
- {
-  "id": "9788936513504",
-  "title": "네 가지 사랑 - 개정무선판",
-  "author": "C. S. 루이스, 이종태 옮김",
-  "category": "신학일반",
-  "section": "theology",
-  "rank": 45,
-  "decision": "남김",
-  "reason": "분류 신학일반"
- },
- {
-  "id": "9788970403274",
-  "title": "웨스트민스터 소요리문답 - 개정판",
-  "author": "독립개신교회교육위원회 옮김",
-  "category": "신학일반",
-  "section": "theology",
-  "rank": 47,
-  "decision": "남김",
-  "reason": "분류 신학일반"
  },
  {
   "id": "9791194969457",
@@ -245,7 +235,7 @@
   "author": "이준혁",
   "category": "설교/성경연구",
   "section": "theology",
-  "rank": 49,
+  "rank": 45,
   "decision": "남김",
   "reason": "분류 설교/성경연구"
  },
@@ -255,19 +245,29 @@
   "author": "J. 해머 로던 (원작), 이스데반 (편저)",
   "category": "신학일반",
   "section": "theology",
+  "rank": 46,
+  "decision": "남김",
+  "reason": "분류 신학일반"
+ },
+ {
+  "id": "9788936513252",
+  "title": "고통의 문제",
+  "author": "C. S. 루이스, 이종태 옮김",
+  "category": "신학일반",
+  "section": "theology",
   "rank": 50,
   "decision": "남김",
   "reason": "분류 신학일반"
  },
  {
-  "id": "9788955365641",
-  "title": "세 왕 이야기 - 개정 2판",
-  "author": "진 에드워드, 허령 옮김",
-  "category": "설교/성경연구",
+  "id": "9791193931271",
+  "title": "Re: 역대기를 읽다",
+  "author": "이광형",
+  "category": "신학일반",
   "section": "commentary",
   "rank": 26,
   "decision": "남김",
-  "reason": "분류 설교/성경연구"
+  "reason": "분류 신학일반"
  },
  {
   "id": "9791176110464",
@@ -280,24 +280,14 @@
   "reason": "분류 설교/성경연구"
  },
  {
-  "id": "9791170831075",
-  "title": "마틴 로이드 존스의 부흥",
-  "author": "마틴 로이드 존스, 정상윤 옮김",
-  "category": "설교/성경연구",
+  "id": "9788990353832",
+  "title": "하나님 나라",
+  "author": "마틴 로이드 존스, 전의우 옮김",
+  "category": "기독교의 이해",
   "section": "commentary",
-  "rank": 38,
+  "rank": 36,
   "decision": "남김",
-  "reason": "분류 설교/성경연구"
- },
- {
-  "id": "9791193931271",
-  "title": "Re: 역대기를 읽다",
-  "author": "이광형",
-  "category": "신학일반",
-  "section": "commentary",
-  "rank": 39,
-  "decision": "남김",
-  "reason": "분류 신학일반"
+  "reason": "분류 기독교의 이해"
  },
  {
   "id": "9791161290683",
@@ -305,19 +295,49 @@
   "author": "박유미",
   "category": "설교/성경연구",
   "section": "commentary",
-  "rank": 44,
+  "rank": 37,
   "decision": "남김",
   "reason": "분류 설교/성경연구"
  },
  {
-  "id": "9791170833079",
-  "title": "태초에 질문이 있었다",
-  "author": "송민원",
-  "category": "성경의 이해",
-  "section": "bible",
-  "rank": 30,
+  "id": "9791165047320",
+  "title": "용기는 두려움이 없는 게 아니라 두려운 일을 하는 것이다 - 두려움에 멈춘 무리와 승리를 준비한 한 사람의 차이",
+  "author": "안호성",
+  "category": "신앙생활일반",
+  "section": "commentary",
+  "rank": 43,
+  "decision": "뺌",
+  "reason": "분류 신앙생활일반"
+ },
+ {
+  "id": "9788936501914",
+  "title": "참으로 신실하게",
+  "author": "이재철",
+  "category": "설교/성경연구",
+  "section": "commentary",
+  "rank": 45,
   "decision": "남김",
-  "reason": "분류 성경의 이해"
+  "reason": "분류 설교/성경연구"
+ },
+ {
+  "id": "9791170831075",
+  "title": "마틴 로이드 존스의 부흥",
+  "author": "마틴 로이드 존스, 정상윤 옮김",
+  "category": "설교/성경연구",
+  "section": "commentary",
+  "rank": 46,
+  "decision": "남김",
+  "reason": "분류 설교/성경연구"
+ },
+ {
+  "id": "9791193931196",
+  "title": "우리 하늘 아버지",
+  "author": "이상환",
+  "category": "신앙생활일반",
+  "section": "bible",
+  "rank": 29,
+  "decision": "뺌",
+  "reason": "분류 신앙생활일반"
  },
  {
   "id": "9791199780453",
@@ -325,19 +345,19 @@
   "author": "월터 브루그만, 클로버 로이터 빌, 양지우 옮김",
   "category": "신앙생활일반",
   "section": "bible",
-  "rank": 32,
+  "rank": 30,
   "decision": "뺌",
   "reason": "분류 신앙생활일반"
  },
  {
-  "id": "9791165047320",
-  "title": "용기는 두려움이 없는 게 아니라 두려운 일을 하는 것이다 - 두려움에 멈춘 무리와 승리를 준비한 한 사람의 차이",
-  "author": "안호성",
-  "category": "신앙생활일반",
+  "id": "9791170833079",
+  "title": "태초에 질문이 있었다",
+  "author": "송민원",
+  "category": "성경의 이해",
   "section": "bible",
-  "rank": 34,
-  "decision": "뺌",
-  "reason": "분류 신앙생활일반"
+  "rank": 31,
+  "decision": "남김",
+  "reason": "분류 성경의 이해"
  },
  {
   "id": "9791193931295",
@@ -345,7 +365,17 @@
   "author": "이상환",
   "category": "신앙생활일반",
   "section": "bible",
-  "rank": 44,
+  "rank": 42,
+  "decision": "뺌",
+  "reason": "분류 신앙생활일반"
+ },
+ {
+  "id": "9791193931097",
+  "title": "예수와 여제자들 - 여성 성서학자의 눈으로 본",
+  "author": "김성희",
+  "category": "신앙생활일반",
+  "section": "bible",
+  "rank": 47,
   "decision": "뺌",
   "reason": "분류 신앙생활일반"
  },
@@ -355,9 +385,39 @@
   "author": "김근주",
   "category": "설교/성경연구",
   "section": "bible",
-  "rank": 50,
+  "rank": 48,
   "decision": "남김",
   "reason": "분류 설교/성경연구"
+ },
+ {
+  "id": "9788939880153",
+  "title": "시내산은 어디인가",
+  "author": "정연호",
+  "category": "신학일반",
+  "section": "bible",
+  "rank": 50,
+  "decision": "남김",
+  "reason": "분류 신학일반"
+ },
+ {
+  "id": "9788955825022",
+  "title": "신과 나눈 이야기 1 - 나는 너희가 원하는 걸 원한다, 개정판",
+  "author": "닐 도널드 월쉬, 조경숙 옮김",
+  "category": "외국에세이",
+  "section": "intro",
+  "rank": 3,
+  "decision": "남김",
+  "reason": "분류 외국에세이"
+ },
+ {
+  "id": "9788953140493",
+  "title": "예수는 역사다 - 누가 예수를 신화라 하는가, 개정증보판",
+  "author": "리 스트로벨, 윤관희, 박중렬 옮김",
+  "category": "신학일반",
+  "section": "intro",
+  "rank": 5,
+  "decision": "남김",
+  "reason": "분류 신학일반"
  },
  {
   "id": "9788955825169",
@@ -370,16 +430,6 @@
   "reason": "분류 외국에세이"
  },
  {
-  "id": "9788971930052",
-  "title": "성과 속: 종교의 본질 - 학민글밭 4",
-  "author": "미르치아 엘리아데",
-  "category": "기독교의 이해",
-  "section": "intro",
-  "rank": 7,
-  "decision": "남김",
-  "reason": "분류 기독교의 이해"
- },
- {
   "id": "9791199780446",
   "title": "왜 그리스도인인가? - 물음을 던지는 신앙, 신앙이 담긴 물음의 길을 걷는 모든 이에게",
   "author": "더글라스 존 홀, 조윤 옮김",
@@ -390,14 +440,14 @@
   "reason": "분류 신학일반"
  },
  {
-  "id": "9788955825046",
-  "title": "신과 나눈 이야기 3",
-  "author": "닐 도널드 월쉬, 조경숙 옮김",
-  "category": "외국에세이",
+  "id": "9788971930052",
+  "title": "성과 속: 종교의 본질 - 학민글밭 4",
+  "author": "미르치아 엘리아데",
+  "category": "기독교의 이해",
   "section": "intro",
-  "rank": 10,
+  "rank": 11,
   "decision": "남김",
-  "reason": "분류 외국에세이"
+  "reason": "분류 기독교의 이해"
  },
  {
   "id": "9788932845470",
@@ -405,29 +455,19 @@
   "author": "알버트 월터스, 마이클 고힌, 양성만, 홍병룡 옮김",
   "category": "기독교의 이해",
   "section": "intro",
+  "rank": 12,
+  "decision": "남김",
+  "reason": "분류 기독교의 이해"
+ },
+ {
+  "id": "9788955825046",
+  "title": "신과 나눈 이야기 3",
+  "author": "닐 도널드 월쉬, 조경숙 옮김",
+  "category": "외국에세이",
+  "section": "intro",
   "rank": 13,
   "decision": "남김",
-  "reason": "분류 기독교의 이해"
- },
- {
-  "id": "9788990353832",
-  "title": "하나님 나라",
-  "author": "마틴 로이드 존스, 전의우 옮김",
-  "category": "기독교의 이해",
-  "section": "intro",
-  "rank": 14,
-  "decision": "남김",
-  "reason": "분류 기독교의 이해"
- },
- {
-  "id": "9788963601700",
-  "title": "선하신 하나님 - 모든 것을 나누시는 성부 하나님, 순종하며 내주시는 성자 하나님, 친밀함을 이루시는 성령 하나님",
-  "author": "마이클 리브스, 장호준 옮김",
-  "category": "신학일반",
-  "section": "intro",
-  "rank": 18,
-  "decision": "남김",
-  "reason": "분류 신학일반"
+  "reason": "분류 외국에세이"
  },
  {
   "id": "9788958741428",
@@ -435,17 +475,7 @@
   "author": "셔우드 홀, 김동열 옮김",
   "category": "기독교의 이해",
   "section": "intro",
-  "rank": 20,
-  "decision": "남김",
-  "reason": "분류 기독교의 이해"
- },
- {
-  "id": "9788932845487",
-  "title": "창조자의 정신 (양장)",
-  "author": "도로시 L. 세이어즈, 강주헌 옮김",
-  "category": "기독교의 이해",
-  "section": "intro",
-  "rank": 23,
+  "rank": 19,
   "decision": "남김",
   "reason": "분류 기독교의 이해"
  },
@@ -455,9 +485,19 @@
   "author": "알랭 바디우, 현성환 옮김",
   "category": "현대철학 일반",
   "section": "intro",
-  "rank": 29,
+  "rank": 28,
   "decision": "남김",
   "reason": "분류 현대철학 일반"
+ },
+ {
+  "id": "9788963601700",
+  "title": "선하신 하나님 - 모든 것을 나누시는 성부 하나님, 순종하며 내주시는 성자 하나님, 친밀함을 이루시는 성령 하나님",
+  "author": "마이클 리브스, 장호준 옮김",
+  "category": "신학일반",
+  "section": "intro",
+  "rank": 29,
+  "decision": "남김",
+  "reason": "분류 신학일반"
  },
  {
   "id": "9788932815589",
@@ -470,12 +510,32 @@
   "reason": "분류 기독교의 이해"
  },
  {
+  "id": "9788953106444",
+  "title": "창조과학 콘서트 - 창세기 1장이 가슴 벅차게 믿어지는",
+  "author": "이재만",
+  "category": "기독교의 이해",
+  "section": "intro",
+  "rank": 35,
+  "decision": "남김",
+  "reason": "분류 기독교의 이해"
+ },
+ {
   "id": "9788934115281",
   "title": "고대 근동 문학 선집",
   "author": "제임스 B. 프리처드, 주원준, 김구원, 강승일, 김성천, 김재환, 윤성덕 옮김",
   "category": "기독교의 이해",
   "section": "intro",
-  "rank": 38,
+  "rank": 40,
+  "decision": "남김",
+  "reason": "분류 기독교의 이해"
+ },
+ {
+  "id": "9788953113985",
+  "title": "하나님의 음성을 듣는 법 - 개정판",
+  "author": "찰스 스탠리, 이미정 옮김",
+  "category": "기독교의 이해",
+  "section": "intro",
+  "rank": 41,
   "decision": "남김",
   "reason": "분류 기독교의 이해"
  },
@@ -485,7 +545,17 @@
   "author": "배덕만",
   "category": "기독교의 이해",
   "section": "intro",
-  "rank": 41,
+  "rank": 44,
+  "decision": "남김",
+  "reason": "분류 기독교의 이해"
+ },
+ {
+  "id": "9788953115583",
+  "title": "빙하시대 이야기 - 영화처럼 재미있는 창조과학의 세계",
+  "author": "이재만, 최우성",
+  "category": "기독교의 이해",
+  "section": "intro",
+  "rank": 46,
   "decision": "남김",
   "reason": "분류 기독교의 이해"
  },
@@ -495,39 +565,19 @@
   "author": "크리스토퍼 라이트, 김명희 옮김",
   "category": "설교/성경연구",
   "section": "intro",
-  "rank": 43,
+  "rank": 47,
   "decision": "남김",
   "reason": "분류 설교/성경연구"
  },
  {
-  "id": "9791190376952",
-  "title": "과학과 하나님 - 꼭 하나만 선택해야 할까?",
-  "author": "존 레녹스, 케이티 모건, 홍병룡 옮김",
+  "id": "9788932845487",
+  "title": "창조자의 정신 (양장)",
+  "author": "도로시 L. 세이어즈, 강주헌 옮김",
   "category": "기독교의 이해",
-  "section": "intro",
-  "rank": 46,
-  "decision": "남김",
-  "reason": "분류 기독교의 이해"
- },
- {
-  "id": "9788952212443",
-  "title": "바울 - 차별과 불평등의 장벽을 넘어서",
-  "author": "김호경",
-  "category": "기독교의 이해",
-  "section": "intro",
-  "rank": 47,
-  "decision": "남김",
-  "reason": "분류 기독교의 이해"
- },
- {
-  "id": "9788932817514",
-  "title": "일곱 문장으로 읽는 신약",
-  "author": "게리 버지, 이철민 옮김",
-  "category": "설교/성경연구",
   "section": "intro",
   "rank": 48,
   "decision": "남김",
-  "reason": "분류 설교/성경연구"
+  "reason": "분류 기독교의 이해"
  },
  {
   "id": "9791199437609",
@@ -538,6 +588,16 @@
   "rank": 2,
   "decision": "남김",
   "reason": "분류 기독교 역사"
+ },
+ {
+  "id": "9791196857950",
+  "title": "마리뒤랑 - 부서진 삶에서 버텨낸 믿음",
+  "author": "조병수",
+  "category": "기독교 인물",
+  "section": "history",
+  "rank": 3,
+  "decision": "남김",
+  "reason": "분류 기독교 인물"
  },
  {
   "id": "9788932816470",
@@ -560,16 +620,6 @@
   "reason": "분류 신학일반"
  },
  {
-  "id": "9791196857950",
-  "title": "마리뒤랑 - 부서진 삶에서 버텨낸 믿음",
-  "author": "조병수",
-  "category": "기독교 인물",
-  "section": "history",
-  "rank": 7,
-  "decision": "남김",
-  "reason": "분류 기독교 인물"
- },
- {
   "id": "9791170833086",
   "title": "교양으로 읽는 기독교",
   "author": "김학철",
@@ -580,12 +630,22 @@
   "reason": "분류 기독교 일반"
  },
  {
+  "id": "9788990809995",
+  "title": "예수는 어떻게 신이 되었나",
+  "author": "바트 어만, 강창헌 옮김, 오강남 (해제)",
+  "category": "로마사",
+  "section": "history",
+  "rank": 14,
+  "decision": "남김",
+  "reason": "분류 로마사"
+ },
+ {
   "id": "9788954639477",
   "title": "아무것도 아닌 것들의 기쁨 - 사도 바울과 새 시대의 윤리",
   "author": "김학철",
   "category": "교양 인문학",
   "section": "history",
-  "rank": 14,
+  "rank": 15,
   "decision": "남김",
   "reason": "분류 교양 인문학"
  },
@@ -595,7 +655,7 @@
   "author": "플라비우스 요세푸스, 김지찬 옮김",
   "category": "신학일반",
   "section": "history",
-  "rank": 16,
+  "rank": 17,
   "decision": "남김",
   "reason": "분류 신학일반"
  },
@@ -625,7 +685,7 @@
   "author": "마르틴 헹엘, 이영욱 옮김",
   "category": "기독교 역사",
   "section": "history",
-  "rank": 30,
+  "rank": 31,
   "decision": "남김",
   "reason": "분류 기독교 역사"
  },
@@ -635,9 +695,19 @@
   "author": "강인철",
   "category": "사회사",
   "section": "history",
-  "rank": 31,
+  "rank": 32,
   "decision": "남김",
   "reason": "분류 사회사"
+ },
+ {
+  "id": "9791187038658",
+  "title": "두렵고 황홀한 역사 - 죽음의 심판, 천국과 지옥은 어떻게 만들어졌나",
+  "author": "바트 어만, 허형은 옮김",
+  "category": "세계사 일반",
+  "section": "history",
+  "rank": 35,
+  "decision": "남김",
+  "reason": "분류 세계사 일반"
  },
  {
   "id": "9791192769509",
@@ -645,7 +715,7 @@
   "author": "로완 윌리엄스, 민경찬, 손승우 옮김",
   "category": "신학일반",
   "section": "history",
-  "rank": 34,
+  "rank": 36,
   "decision": "남김",
   "reason": "분류 신학일반"
  },
@@ -655,7 +725,7 @@
   "author": "언더우드 가족, 허경진, 허글 옮김",
   "category": "종교학",
   "section": "history",
-  "rank": 38,
+  "rank": 39,
   "decision": "남김",
   "reason": "분류 종교학"
  },
@@ -665,29 +735,9 @@
   "author": "D. 클린트 버네트, 노동래 옮김",
   "category": "설교/성경연구",
   "section": "history",
-  "rank": 40,
-  "decision": "남김",
-  "reason": "분류 설교/성경연구"
- },
- {
-  "id": "9788934112549",
-  "title": "고대 근동 문화 - B.C 3,000년경~ B.C 323년",
-  "author": "알프레드 J.허트 엮음, 신득일, 김백석 옮김",
-  "category": "신학일반",
-  "section": "history",
   "rank": 41,
   "decision": "남김",
-  "reason": "분류 신학일반"
- },
- {
-  "id": "9791190664158",
-  "title": "하나님의 기적 대한민국 건국 1 - 개정2판",
-  "author": "이호",
-  "category": "기독교 역사",
-  "section": "history",
-  "rank": 42,
-  "decision": "남김",
-  "reason": "분류 기독교 역사"
+  "reason": "분류 설교/성경연구"
  },
  {
   "id": "9788939101524",
@@ -700,23 +750,13 @@
   "reason": "분류 기독교 역사"
  },
  {
-  "id": "9791190664165",
-  "title": "하나님의 기적 대한민국 건국 2 - 개정2판",
-  "author": "이호",
-  "category": "기독교 역사",
+  "id": "9788934112549",
+  "title": "고대 근동 문화 - B.C 3,000년경~ B.C 323년",
+  "author": "알프레드 J.허트 엮음, 신득일, 김백석 옮김",
+  "category": "신학일반",
   "section": "history",
   "rank": 44,
   "decision": "남김",
-  "reason": "분류 기독교 역사"
- },
- {
-  "id": "9791189092221",
-  "title": "그리스도교의 신 - 역사적 개관",
-  "author": "폴 E. 카페츠, 김지호 옮김",
-  "category": "기독교 역사",
-  "section": "history",
-  "rank": 45,
-  "decision": "남김",
-  "reason": "분류 기독교 역사"
+  "reason": "분류 신학일반"
  }
 ]
